@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.getsnapcard",
+    "sha256_cert_fingerprints":
+    ["FA:2F:EA:D1:23:AD:E1:54:3C:53:E2:99:11:56:0F:A3:88:D4:40:35:B3:83:5F:74:C0:5E:6F:54:B3:A9:F3:52"]
+  }
+}]
